@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">utskelompok</string>
+    <string-array name="item_names">
+        <item>Harimau Bengal</item>
+        <item>Panda Raksasa</item>
+        <item>Burung Hantu Salju</item>
+    </string-array>
+    <string-array name="item_descriptions">
+        <item>Harimau Bengal adalah salah satu subspesies harimau yang hidup di India, Bangladesh, Nepal, dan Bhutan. Hewan ini memiliki tubuh besar dengan panjang hingga 3 meter dan berat mencapai 300 kg. Harimau ini adalah predator puncak di ekosistemnya, berburu rusa, babi hutan, dan bahkan buaya. Sayangnya, harimau Bengal terancam punah akibat perburuan liar dan kehilangan habitat.</item>
+        <item>Panda raksasa adalah hewan khas Tiongkok yang terkenal karena bulunya yang berwarna hitam dan putih. Panda sebagian besar memakan bambu, meskipun mereka juga kadang-kadang mengonsumsi serangga dan tumbuhan lainnya. Hewan ini sering dianggap simbol perdamaian dan dilindungi ketat dalam program konservasi internasional.</item>
+        <item>Burung hantu salju adalah burung pemangsa yang hidup di daerah tundra Arktik. Dengan bulu putih tebalnya, burung ini sangat teradaptasi terhadap suhu dingin. Mereka berburu tikus lemming, kelinci, dan burung lainnya. Burung ini juga dikenal karena simbolnya sebagai misteri dan kebijaksanaan dalam berbagai budaya</item>
+    </string-array>
+    <integer-array name="item_images">
+        <item>@drawable/ic_tiger</item>
+        <item>@drawable/ic_panda</item>
+        <item>@drawable/ic_owl</item>
+    </integer-array>
+</resources>
